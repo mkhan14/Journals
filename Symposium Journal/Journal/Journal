@@ -26,4 +26,9 @@ Day 4: 5/9/17
 	My goal for tomorrow is to focus on a specific part of the project to work on.
 Day 5: 5/10/17
 	Goal: Today, I will continue researching how to upload images.
+	I continued to research how to upload images. I learned that a file-chooser can be used to do this.
+	I looked up the errors that could arise from uploading images into a chat program, such as IOException
+	and ClassNotFoundException. I also began looking up absolute path, which could be relevant to displaying
+	images from the image receiver side.
+	My goal for tomorrow is to continue researching and discussing the implications of image uploading.
 	
