@@ -33,4 +33,8 @@ Day 5: 5/10/17
 	My goal for tomorrow is to continue researching and discussing the implications of image uploading.
 Day 6: 5/11/17
 	Goal: Today, I will look at the front end portion of the client and server side code and see how to modify it.
-	
+	I looked at ways to store images into databases. The usual way to do that is to store the directory of the image.
+	I viewed some of the tutorial videos on how to make a chat program to refresh my memory and to clear up any confusion.
+	I cleared up confusion about why a do-while loop and try-catch statements are needed. I looked at the server-side code
+	and saw if there was anything that didn't make sense to me.
+	My goal for tomorrow is to watch the client-side tutorials.
