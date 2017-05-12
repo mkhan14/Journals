@@ -40,3 +40,8 @@ Day 6: 5/11/17
 	My goal for tomorrow is to watch the client-side tutorials.
 Day 7: 5/12/17
 	Goal: Today, I will watch the client-side tutorials.
+	I watched some tutorials on the client-side. I looked up how to read and write files in Java, since that will be
+	needed if one wants to send messages over the chat program. I was more clear about objectInputStream and
+	objectOutputStream. Sending images is common in a messaging program, such as emojis or uploaded images, so I will
+	see how to make it happen.
+	My goal for Monday is to find how to send images over the chat program.
