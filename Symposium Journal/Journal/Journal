@@ -54,3 +54,7 @@ Day 8: 5/15/17
 	My goal for tomorrow is to start coding using the JFileChooser first.
 Day 9: 5/16/17
 	Goal: Today, I will use the JFileChooser to start coding.
+	I started coding the image uploader by using the JFileChooser video. I found a video on sending images with sockets, 
+	so I will try to use that in the future. I made a new package and imageSender class and began to code the constructor.
+	I think I am nearly done with it.
+	My goal for tomorrow is to continue coding the image uploader and to test it out.
