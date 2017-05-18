@@ -67,3 +67,8 @@ Day 10: 5/17/17
 	My goal for tomorrow is to continue researching how to send images over sockets and append images to the chat window.
 Day 11: 5/18/17
 	Goal: Today, I will continue researching how to send images over sockets and append images to the chat window.
+	I continued to research how to send images over sockets and append images to the chat window. I spent more time with
+	looking at how to append images to the chat window. Doing this on a JTextArea would be tough, so I was advised to do it with
+	JTextPane. I made a new JTextPane and positioned it to the left of the chatbox. Images could be shown on the left section
+	while text can be shown on the right.
+	My goal for the next day we work is to test out displaying images to the program.
