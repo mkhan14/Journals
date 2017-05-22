@@ -74,3 +74,7 @@ Day 11: 5/18/17
 	My goal for the next day we work is to test out displaying images to the program.
 Day 12: 5/22/17
 	Goal: Today I will test out displaying images to the program and see how to send them over sockets.
+	I tried to find out how to display images on the chat program. I could do this using the insertIcon method. I looked
+	at more videos on how to send images and files over sockets and how to send files from client to server.
+	My goal for tomorrow is to show an image on the chat window and to implement the file chooser with the sending of images
+	over sockets.
