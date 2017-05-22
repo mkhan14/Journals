@@ -72,3 +72,5 @@ Day 11: 5/18/17
 	JTextPane. I made a new JTextPane and positioned it to the left of the chatbox. Images could be shown on the left section
 	while text can be shown on the right.
 	My goal for the next day we work is to test out displaying images to the program.
+Day 12: 5/22/17
+	Goal: Today I will test out displaying images to the program and see how to send them over sockets.
