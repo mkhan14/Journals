@@ -80,3 +80,8 @@ Day 12: 5/22/17
 	over sockets.
 Day 13: 5/23/17
 	Goal: Today, I will try to implement the file chooser with the sending of images over sockets.
+	I added another picture to the JTextPane. It looks abnormal, as it sits next to the first image and when the window is
+	maximized, it consumes the whole window. I then tried to send images from the computer over sockets using the JFileChooser.
+	I have to somehow convert RenderedImages to BufferedImages.
+	My goal for tomorrow is to continue trying to send an image over sockets with the JFileChooser and then display it in another 
+	window as a test.
