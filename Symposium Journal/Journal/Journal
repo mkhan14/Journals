@@ -85,3 +85,9 @@ Day 13: 5/23/17
 	I have to somehow convert RenderedImages to BufferedImages.
 	My goal for tomorrow is to continue trying to send an image over sockets with the JFileChooser and then display it in another 
 	window as a test.
+Day 14: 5/24/17
+	Goal: Today, I will try to send an image over sockets with the JFileChooser and display it in another window.
+	I made the image be read before it is written, and it made the compilation errors go away. But, the JFileChooser still
+	does not show on the screen after the client and server are connected.
+	My goal for tomorrow is to continue trying to make the JFileChooser display and make an image selectable so it shows in
+	another window.
