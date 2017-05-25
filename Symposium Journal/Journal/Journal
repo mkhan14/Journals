@@ -93,3 +93,8 @@ Day 14: 5/24/17
 	another window.
 Day 15: 5/25/17
 	Goal: Today, I will continue to try to make the JFileChooser display and make an image selectable so it shows in another window.
+	I made the JFileChooser and image selected from it display. First, the file chooser popped up before the client connected to
+	to the server. The image was able to be selected and displayed in another window by the client, but I wanted the server and
+	client to connect before the file chooser popped up. After rearranging some commands, I was able to do it.
+	My goal for the next day we work is to make an attachment button and implement what I worked on with the JFileChooser and image 
+	sending over sockets to the main program.
