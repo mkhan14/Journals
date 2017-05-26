@@ -100,3 +100,9 @@ Day 15: 5/25/17
 	sending over sockets to the main program.
 Day 16: 5/26/17
 	Goal: Today, I will make an attachment button and start the action listener.
+	I made a button for uploading an attachment and started the action listener for the button. I tested out many different sizes
+	and locations for the button. It was taking a little too long, so I proceeded to work on other things. I made a sendImage and 
+	receiveImage method. I'll have to do the same thing for the server. I'll also have to adjust the size of the button. I could 
+	make it so the button has a picture of a paperclip instead of it just saying "attachment". I also have to revisit the JTextPane 
+	that I made for the image viewing.
+	My goal for the next day we work is to continue working on the button and its functionality.
