@@ -98,3 +98,5 @@ Day 15: 5/25/17
 	client to connect before the file chooser popped up. After rearranging some commands, I was able to do it.
 	My goal for the next day we work is to make an attachment button and implement what I worked on with the JFileChooser and image 
 	sending over sockets to the main program.
+Day 16: 5/26/17
+	Goal: Today, I will make an attachment button and start the action listener.
