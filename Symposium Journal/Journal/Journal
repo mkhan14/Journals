@@ -108,3 +108,8 @@ Day 16: 5/26/17
 	My goal for the next day we work is to continue working on the button and its functionality.
 Day 17: 5/30/17
 	Goal: Today, I will continue working on the attachment button and its functionality.
+	I tried to make a button on the server class, but it does not display for some reason. I will have to find out how to fix that.
+	I also tried to make the client successfully send an image to the server, but there is an error that occurs with the sockets.
+	The server can't receive or display the image from the client if the client can't send it to the server properly. Then, I will
+	have to make the server send images and the client receive them as well.
+	My goal for tomorrow is to continue working on sending images successfully to the server.
