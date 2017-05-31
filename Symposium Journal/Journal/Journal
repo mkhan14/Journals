@@ -115,3 +115,6 @@ Day 17: 5/30/17
 	My goal for tomorrow is to continue working on sending images successfully to the server.
 Day 18: 5/31/17
 	Goal: Today, I will continue working on sending images to the server.
+	I continued to work on sending an image from client to server, but the socket closing error persisted. I found different ways
+	of approaching the problem on multiple stackoverflow pages and will try to implement those.
+	My goal for tomorrow is to continue working on sending images to the server from the client.
