@@ -113,3 +113,5 @@ Day 17: 5/30/17
 	The server can't receive or display the image from the client if the client can't send it to the server properly. Then, I will
 	have to make the server send images and the client receive them as well.
 	My goal for tomorrow is to continue working on sending images successfully to the server.
+Day 18: 5/31/17
+	Goal: Today, I will continue working on sending images to the server.
