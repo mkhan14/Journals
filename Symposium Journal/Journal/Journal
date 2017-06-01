@@ -118,3 +118,8 @@ Day 18: 5/31/17
 	I continued to work on sending an image from client to server, but the socket closing error persisted. I found different ways
 	of approaching the problem on multiple stackoverflow pages and will try to implement those.
 	My goal for tomorrow is to continue working on sending images to the server from the client.
+Day 19: 6/1/17
+	Goal: Today, I will continue to work on sending images to the server.
+	I found a problem where changes I made the to server class wouldn't be expressed after I've run the server test. The solution
+	was to delete a buildpath. The image seems to be sent, but it is not properly received by the server.
+	My goal for tomorrow is to make the server receive and display the image sent by the client.
