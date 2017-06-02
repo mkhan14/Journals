@@ -125,3 +125,7 @@ Day 19: 6/1/17
 	My goal for tomorrow is to make the server receive and display the image sent by the client.
 Day 20: 6/2/17
 	Goal: Today, I will work on making the server receive and display the image sent by the client.
+	The image was able to be sent from the client and displayed by the server with help from Victor. I made similar changes to the client class, so
+	images can be received from the server as well. But, new problems arise from this. One cannot chat before or after an image
+	is sent and retrieved. The program closes down after the sharing of the image.
+	My goal for the next day we work is to use the Message class to send images instead of the current way I'm sending images.
