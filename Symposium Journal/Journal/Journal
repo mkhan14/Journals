@@ -136,3 +136,12 @@ Day 21: 6/5/17
 	My goal for tomorrow is to fix bugs with the Message class and to use bytes array to send and receive images.
 Day 22: 6/6/17
 	Goal: Today, I will use the Message class and bytes array to send and receive messages.
+	I tried to make my current way of sending and receiving images work, but the socket still closed. The image was sent, received,
+	and displayed, but one couldn't send text messages before choosing a file, or after, since the connection would close down after
+	the image was closed or if someone tried to send text messages while the image window was still open. I read somewhere that
+	the socket would close with this way of sending and receiving images, and I saw that transferring bytes through sockets
+	will solve this problem. I began to send images by converting them to bytes, but it wasn't successful yet, because I have
+	to understand how to send the bytes through my object output stream and then convert the bytes back to something readable,
+	so when it is received, it can be displayed. I also have to make it so the chat can keep going on and the images can keep
+	being chosen without anything shutting down.
+	My goal for tomorrow is to continue sending bytes successfully and converting them back to something readable.
