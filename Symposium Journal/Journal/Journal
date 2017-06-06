@@ -134,3 +134,5 @@ Day 21: 6/5/17
 	I looked up how to send images with bytes. I think I'm going to send them this way, because the way I'm using closes the socket,
 	and that can't happen. I used Victor's Message class so the program can recognize different objects, not just strings.
 	My goal for tomorrow is to fix bugs with the Message class and to use bytes array to send and receive images.
+Day 22: 6/6/17
+	Goal: Today, I will use the Message class and bytes array to send and receive messages.
