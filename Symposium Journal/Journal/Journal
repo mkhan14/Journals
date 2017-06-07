@@ -147,3 +147,6 @@ Day 22: 6/6/17
 	My goal for tomorrow is to continue sending bytes successfully and converting them back to something readable.
 Day 23: 6/7/17
 	Goal: Today, I will continue to work on sending bytes and converting them back to an image.
+	I continued using byte array to send images. I think it is relatively simple to make a byte array and write it to an
+	output. But, I am having difficulty reading the byte array from the other side and displaying it.
+	My goal for the next day we work is to get the server side to read the byte array to display the image.
