@@ -145,3 +145,5 @@ Day 22: 6/6/17
 	so when it is received, it can be displayed. I also have to make it so the chat can keep going on and the images can keep
 	being chosen without anything shutting down.
 	My goal for tomorrow is to continue sending bytes successfully and converting them back to something readable.
+Day 23: 6/7/17
+	Goal: Today, I will continue to work on sending bytes and converting them back to an image.
