@@ -150,3 +150,6 @@ Day 23: 6/7/17
 	I continued using byte array to send images. I think it is relatively simple to make a byte array and write it to an
 	output. But, I am having difficulty reading the byte array from the other side and displaying it.
 	My goal for the next day we work is to get the server side to read the byte array to display the image.
+Day 24: 6/9/17
+	Goal: Today, I will continue finding out why the sockets disconnect after the image is sent from the client to the server
+	and displayed.
