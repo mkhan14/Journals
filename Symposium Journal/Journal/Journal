@@ -153,3 +153,5 @@ Day 23: 6/7/17
 Day 24: 6/9/17
 	Goal: Today, I will continue finding out why the sockets disconnect after the image is sent from the client to the server
 	and displayed.
+Day 25: 6/12/17
+	Goal: Continue working on getting connection to not disconnect.
